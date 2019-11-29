@@ -1,8 +1,9 @@
 # link-collection
 Just a collection of interesting links.
 
-## Tools
+## Tools & Software
 - [SandBoxie](https://www.sandboxie.com/): Open source sandbox tool for Windows
+- [Kali Linux](https://www.kali.org): Linux distribution with undercover mode that looks like Windows10
 
 ## Programming Utilities
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): A simple guide for the most common markdown functionaly
