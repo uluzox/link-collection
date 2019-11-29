@@ -13,3 +13,7 @@ Just a collection of interesting links.
 - [Technology Radar](https://www.thoughtworks.com/radar): An opinionated guide to technology frontiers by ThoughtWorks 
 - [Zhong Tai](https://www.thoughtworks.com/insights/blog/zhong-tai-radical-approach-enterprise-it): an approach to delivering encapsulated business models by providing software with core services that are common accross multiple business models. 
 > "They realized that it was possible to build an Uber-like service with only a handful of basic capabilities: some form of resource management, a location-based user request system, a matching engine, a payment platform and some form of membership management."
+
+## Sustainability & Ecology
+- [deodorant recipe](https://www.smarticular.net/kokosoel-deocreme-aus-drei-zutaten-schnell-wirksam-und-gesund/): a recipe for making a super effective and cheap deodorant yourself (no alcohol nor aluminum) 
+- [anti-dandruff shampoo](http://naturseifen-luettje-seep.webshopapp.com/festes-shampoo-anti-schuppe.html): a solid anti-dandruff shampoo that does not use any hormon influencing ingridients
