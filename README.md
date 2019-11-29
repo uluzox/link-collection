@@ -8,3 +8,6 @@ Just a collection of interesting links.
 
 ## Programming Utilities
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): A simple guide for the most common markdown functionaly
+
+## Miscellaneous
+- [Zhong Tai](https://www.thoughtworks.com/insights/blog/zhong-tai-radical-approach-enterprise-it): an approach to delivering encapsulated business models by providing software with core services that are common accross multiple business models. "They realized that it was possible to build an Uber-like service with only a handful of basic capabilities: some form of resource management, a location-based user request system, a matching engine, a payment platform and some form of membership management."
