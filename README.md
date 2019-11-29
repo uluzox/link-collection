@@ -17,3 +17,4 @@ Just a collection of interesting links.
 ## Sustainability & Ecology
 - [deodorant recipe](https://www.smarticular.net/kokosoel-deocreme-aus-drei-zutaten-schnell-wirksam-und-gesund/): a recipe for making a super effective and cheap deodorant yourself (no alcohol nor aluminum) 
 - [anti-dandruff shampoo](http://naturseifen-luettje-seep.webshopapp.com/festes-shampoo-anti-schuppe.html): a solid anti-dandruff shampoo that does not use any hormon influencing ingridients
+- [shiftphones](https://www.shiftphones.com/): sustainable smartphones (and other mobile devices) made in Germany
